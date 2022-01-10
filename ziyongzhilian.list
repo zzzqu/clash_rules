@@ -2,4 +2,4 @@
 #DOMAIN-SUFFIX,aaplimg.com
 #IP-CIDR,17.0.0.0/8,no-resolve
 DOMAIN-SUFFIX,zzzweb.xyz
-DOMAIN-SUFFIX,v2.get.sogou.com
+DOMAIN-SUFFIX,get.sogou.com
