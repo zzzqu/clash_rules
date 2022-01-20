@@ -1,0 +1,23 @@
+#lol
+PROCESS-NAME,RiotClientServices.exe
+PROCESS-NAME,RiotClientCrashHandler.exe                                                    
+PROCESS-NAME,CrossProxy.exe                                                 
+PROCESS-NAME,LeagueClient.exe                                                           
+PROCESS-NAME,LeagueClientUx.exe                                                          
+PROCESS-NAME,LeagueClientUxRender.exe
+PROCESS-NAME,League of Legends.exe
+PROCESS-NAME,LeagueCrashHandler.exe
+
+#wegame
+PROCESS-NAME,pallas.exe
+PROCESS-NAME,wegame.exe
+PROCESS-NAME,rail.exe
+PROCESS-NAME,browser.exe
+PROCESS-NAME,FeedBack.exe
+PROCESS-NAME,XY_YXQ_Nethelper.exe
+PROCESS-NAME,yxqxunyou.exe
+
+#uu加速器
+PROCESS-NAME,uu_render.exe
+PROCESS-NAME,uu.exe
+PROCESS-NAME,uu_ball.exe
