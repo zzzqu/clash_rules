@@ -4,3 +4,4 @@
 DOMAIN-SUFFIX,zzzweb.xyz
 DOMAIN-SUFFIX,get.sogou.com
 DOMAIN,app.market.xiaomi.com
+IP-CIDR,43.152.201.60,no-resolve
