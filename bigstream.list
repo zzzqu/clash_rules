@@ -1,3 +1,5 @@
 PROCESS-NAME,GoogleDriveFS.exe
 PROCESS-NAME,MDCx.exe
 PROCESS-NAME,javaw.exe
+PROCESS-NAME,RaiDrive.exe
+PROCESS-NAME,RaiDrive.Service.x64.exe
