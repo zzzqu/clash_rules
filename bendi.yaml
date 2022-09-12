@@ -142,3 +142,16 @@ dns:
     # tls: true
     # skip-cert-verify: true
     udp: true
+
+
+proxy-groups:
+  - name: 本地socks5代理
+    type: select
+    proxies:
+      - 端口：40000
+      - 端口：40001
+      - 端口：40002
+      
+rules:
+ - GEOIP,CN,DIRECT
+ - MATCH,本地socks5代理
