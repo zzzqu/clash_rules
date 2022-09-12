@@ -112,7 +112,7 @@ dns:
     - 8.8.8.8
     - 1.0.0.1
 
-
+proxies:
   - name: "端口：40000"
     type: socks5
     server: 127.0.0.1
