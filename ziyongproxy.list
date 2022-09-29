@@ -2,3 +2,4 @@
 #DOMAIN-SUFFIX,aaplimg.com
 #IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,43.152.128.0/17,no-resolve
+DOMAIN-SUFFIX,translate.googleapis.com
