@@ -6,3 +6,12 @@ DOMAIN-SUFFIX,translate.googleapis.com
 #DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,alibabacloud.com
+
+
+# Battle
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
