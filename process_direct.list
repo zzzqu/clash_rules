@@ -22,6 +22,15 @@ PROCESS-NAME,uu_render.exe
 PROCESS-NAME,uu.exe
 PROCESS-NAME,uu_ball.exe
 
+#奇妙加速器
+PROCESS-NAME,QiMiao.exe
+
+#战网
+PROCESS-NAME,Battle.net.exe
+
+#守望先锋
+PROCESS-NAME,Overwatch.exe
+PROCESS-NAME,CrashMailer_64.exe
 
 #下载应用
 PROCESS-NAME,v2ray
